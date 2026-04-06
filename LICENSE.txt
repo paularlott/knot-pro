@@ -1,0 +1,115 @@
+Knot Pro End User Licence Agreement (EULA)
+
+Version 1.0
+Last updated: 6 April 2026
+
+This End User Licence Agreement (“Agreement”) is a legal agreement between you (“Licensee”) and Paul Arlott (“Licensor”) governing your use of the Knot Pro software (“Software”). By installing, activating, or using the Software, you agree to be bound by this Agreement.
+
+---
+
+1. Licence Grant
+
+Licensor grants you a non‑exclusive, non‑transferable, revocable licence to install and use the Software for your personal or internal business purposes. The Software may only be used with a valid licence key issued by the Licensor.
+No rights are granted except those expressly stated in this Agreement.
+
+---
+
+2. Licence Key
+
+The Software requires a valid licence key to activate Pro features.
+
+• The licence key is personal to the individual or organisation to whom it was issued.
+• The licence key may not be shared, transferred, sold, or distributed.
+• The Software may display the name associated with the licence key for verification and anti‑piracy purposes.
+• Any attempt to bypass, modify, or forge licence validation is prohibited.
+
+Licensor may revoke a licence key if it is misused or distributed without authorisation.
+
+---
+
+3. Restrictions
+
+You may not:
+
+• modify, reverse engineer, decompile, or disassemble the Software
+• remove or obscure any proprietary notices
+• sublicense, sell, rent, lease, or distribute the Software or licence key
+• use the Software to develop or provide a competing product or service
+• use the Software in violation of any applicable laws
+
+The Software may include technical measures to prevent unauthorised use.
+
+---
+
+4. Ownership
+
+The Software is licensed, not sold.
+
+All rights, title, and interest in and to the Software, including all intellectual property rights, remain with the Licensor.
+
+No rights are granted except those expressly stated.
+
+---
+
+5. Updates
+
+Updates, enhancements, or bug fixes may be provided at the discretion of the Licensor.
+
+Some updates may require an active or valid licence to install or activate.
+
+---
+
+6. Term and Termination
+
+This Agreement remains in effect until terminated.
+
+The licence may be terminated immediately if:
+
+• you breach any term of this Agreement
+• your licence key is shared, leaked, or misused
+• payment for the licence is not received or is reversed
+
+Upon termination, you must stop using the Software and uninstall all copies.
+
+Sections relating to ownership, restrictions, disclaimers, and liability survive termination.
+
+---
+
+7. Disclaimer of Warranties
+
+The Software is provided “as is” without warranties of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non‑infringement.
+
+You assume all risks associated with using the Software.
+
+---
+
+8. Limitation of Liability
+
+To the maximum extent permitted by law:
+
+• the Licensor is not liable for indirect, incidental, special, or consequential damages
+• total liability is limited to the amount paid for the licence
+
+Some jurisdictions do not allow certain limitations; in such cases, the minimum required protections apply.
+
+---
+
+9. Privacy
+
+The Software may store licence information locally to validate your entitlement.
+
+The Software does not transmit personal data unless explicitly stated or required for activation.
+
+---
+
+10. Governing Law
+
+This Agreement is governed by the laws of Western Australia.
+
+Any disputes arising under or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts located in Perth, Western Australia.
+
+---
+
+11. Entire Agreement
+
+This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes all prior understandings.
