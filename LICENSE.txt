@@ -1,5 +1,12 @@
 Knot Pro End User Licence Agreement (EULA)
 
+Knot Pro is built on the open-source Knot Core project, which is distributed
+separately under the Apache License, Version 2.0. This repository and this
+distribution cover Knot Pro, including its commercial Pro features, which are
+closed-source, licensed under this Agreement, and protected by licence-key
+validation. Open-source components included with Knot Pro remain subject to
+their own applicable licences.
+
 Version 1.0
 Last updated: 6 April 2026
 
